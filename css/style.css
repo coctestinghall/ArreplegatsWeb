@@ -19302,7 +19302,7 @@ All this is done for any sub-level being entered.
 
 
 
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0);
 
 
 
@@ -19430,15 +19430,15 @@ All this is done for any sub-level being entered.
 
 
 
-    width: 386px;
+    width: 358px;
 
 
 
-    height: 386px;
+    height: 364px;
 
 
 
-    background-color: #000;
+    background-color: rgba(0, 0, 0, 0);
 
 
 
@@ -19466,11 +19466,11 @@ All this is done for any sub-level being entered.
 
 
 
-        width: 384px;
+        width: 358px;
 
 
 
-        height: 384px;
+        height: 364px;
 
 
 
@@ -19502,11 +19502,11 @@ All this is done for any sub-level being entered.
 
 
 
-      width: 384px;
+      width: 358px;
 
 
 
-      height: 384px;
+      height: 364px;
 
 
 
@@ -19562,11 +19562,11 @@ All this is done for any sub-level being entered.
 
 
 
-          width: 384px;
+          width: 358px;
 
 
 
-          height: 384px; } }
+          height: 364px; } }
 
 
 
