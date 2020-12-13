@@ -14837,11 +14837,11 @@ All this is done for any sub-level being entered.
 
 
 
-    -webkit-transform: translate3d(-20%, 0, 0);
+    -webkit-transform: translate3d(0%, -40%, 0);
 
 
 
-            transform: translate3d(-20%, 0, 0);
+            transform: translate3d(0%, -40%, 0);
 
 
 
@@ -15037,7 +15037,7 @@ All this is done for any sub-level being entered.
 
 
 
-      background-image: url(https://wordshop.academy/wp-content/themes/wordshop/images/bg/footer-body-right.png);
+      background-image: url(https://prova.arreplegats.cat/assets/img/folre3d8.png);
 
 
 
@@ -15443,7 +15443,7 @@ All this is done for any sub-level being entered.
 
     width: 80%;
 
-
+    /* Això són els puntets del fons  */ 
 
     background-image: url(https://wordshop.academy/wp-content/themes/wordshop/images/bg/bg.png);
 
@@ -16201,11 +16201,11 @@ All this is done for any sub-level being entered.
 
 
 
-      -webkit-transform: translate3d(0, 0, 0);
+      -webkit-transform: translate3d(-10%, 0, 0);
 
 
 
-              transform: translate3d(0, 0, 0);
+              transform: translate3d(-10%, 0, 0);
 
 
 
@@ -16289,15 +16289,15 @@ All this is done for any sub-level being entered.
 
 
 
-    height: 360px;
+    height: 540px;
 
 
 
-    width: 280px;
+    width: 420px;
 
 
 
-    background-image: url(https://wordshop.academy/wp-content/themes/wordshop/images/bg/man-with-head.png);
+    background-image: url(https://prova.arreplegats.cat/assets/img/Td8fm.png);
 
 
 
@@ -16329,11 +16329,11 @@ All this is done for any sub-level being entered.
 
 
 
-        height: 500px;
+        height: 750px;
 
 
 
-        width: 400px; } }
+        width: 600px; } }
 
 
 
@@ -16345,11 +16345,11 @@ All this is done for any sub-level being entered.
 
 
 
-        width: 580px;
+        width: 870px;
 
 
 
-        height: 670px;
+        height: 1005px;
 
 
 
